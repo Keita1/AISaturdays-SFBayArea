@@ -1,2 +1,2 @@
 # AISaturdays-SFBayArea
-repository for Bay Area Chapter of AI Saturdays
+Repository for Bay Area Chapter of AI Saturdays
